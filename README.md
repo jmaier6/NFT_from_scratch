@@ -5,5 +5,6 @@ This project is simply a test run of my NFT building skills
 If I want to change this data I can do it like this
 
 
+update the main Readme final
 
-but this is for the testbranch
+
